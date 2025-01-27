@@ -1,1 +1,3 @@
-CS 2400, section 100
+Name - Abby Gorrell
+Username - AbbyGorrell7
+Done
